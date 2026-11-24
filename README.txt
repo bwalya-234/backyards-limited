@@ -1,0 +1,1 @@
+Extract the ZIP and replace index.html in the folder GitHub Pages serves. If the company profile is missing, copy media/company-profile.pdf into the same folder structure. All website images, styles and scripts are embedded in index.html. Commit the update and refresh the website after GitHub Pages deploys it.
